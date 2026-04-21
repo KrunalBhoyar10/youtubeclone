@@ -1,0 +1,12 @@
+{
+  "name": "youtubproject",
+  "version": "1.0.0",
+  "description": "this is parcties",
+  "license": "ISC",
+  "author": "krunal bhoyar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "/index.js"
+  }
+}
